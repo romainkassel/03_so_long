@@ -42,7 +42,7 @@ I recommand to use a Linux distribution such as:
 2. Clone this repository: `git clone git@github.com:romainkassel/03_so_long.git`
 3. Enter into cloned repository: `cd 03_so_long`
 4. Clone the MiniLibX repository for Linux: `git clone https://github.com/42paris/minilibx-linux.git`
-5. Enter into cloned directory: `cd minilibx-linux`
+5. Enter into cloned repository: `cd minilibx-linux`
 6. Build the MiniLibX: `make`
 7. Return to the repository index: `cd ..`
 8. Build the project: `make`
