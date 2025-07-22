@@ -16,7 +16,7 @@ void	ft_putnbr_uns(unsigned int nb, t_printf *lst)
 {
 	char	c;
 
-	if (nb >= 0 && nb <= 9)
+	if (nb <= 9)
 	{
 		c = nb + 48;
 		lst->length++;
