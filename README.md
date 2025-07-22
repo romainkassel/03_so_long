@@ -23,8 +23,8 @@ This project focuses on the design, development and organisation of a complete w
 
 ### Prerequisites
 
-This project is using the MiniLibX, a graphical library mentionned above.
-To build this project, you will have to clone and install it.
+This project is using the MiniLibX, a graphical library mentionned above.<br/>
+To build this project, you will have to clone and install it.<br/>
 The steps will be described a little further.
 
 ## How to use this repository?
