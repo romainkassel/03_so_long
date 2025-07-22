@@ -21,12 +21,6 @@ This is a 42 school project, the last one of the core curriculum.
 
 This project focuses on the design, development and organisation of a complete web application.
 
-### Prerequisites
-
-This project is using the MiniLibX, a graphical library mentionned above.<br/>
-To build this project, you will have to clone and install it.<br/>
-The steps will be described a little further.
-
 ## How to use this repository?
 
 ### Recommended Operating System (OS)
@@ -35,6 +29,12 @@ I recommand to use a Linux distribution such as:
 
 - Latest stable version (LTS) of Ubuntu
 - Latest stable version (LTS) of Debian
+
+### Prerequisites
+
+This project is using the MiniLibX, a graphical library mentionned above.<br/>
+To build this project, you will have to clone and install it.<br/>
+The steps will be described a little further.
 
 ### Steps to follow
 
